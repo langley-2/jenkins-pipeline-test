@@ -1,1 +1,1 @@
-# jenkins triggers howto
+# jenkins triggers how to
